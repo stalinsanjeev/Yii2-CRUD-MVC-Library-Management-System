@@ -2,8 +2,9 @@
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
     </a>
+    <h1># Yii2 CRUD MVC Library Management System</h1>
+    <br>
 </p>
-# Yii2 CRUD MVC Library Management System
 
 This is a simple **Library Management System** built using **Yii2 MVC framework**. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on books in the library. This project serves as a beginner-friendly introduction to **MVC architecture**, **Active Record**, and **Yii2 framework development**.
 
