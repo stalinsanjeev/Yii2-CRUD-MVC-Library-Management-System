@@ -6,9 +6,14 @@
     <br>
 </p>
 
+![Alt Text](https://example.com/image.png)
+
+
+
 This is a simple **Library Management System** built using **Yii2 MVC framework**. The application allows users to perform CRUD (Create, Read, Update, Delete) operations on books in the library. This project serves as a beginner-friendly introduction to **MVC architecture**, **Active Record**, and **Yii2 framework development**.
 
 ---
+
 
 ## 📘 **Project Overview**
 
